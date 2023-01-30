@@ -42,7 +42,7 @@ img {
 .container {
   display: flex;
   /* flex-direction: column; */
-  /* justify-content: center; */
+  justify-content: center;
   align-content: space-around;
   align-items: center; /*改變屬性值來看看變化*/
   flex-wrap: wrap;
